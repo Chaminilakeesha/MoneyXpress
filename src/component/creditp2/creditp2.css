@@ -1,0 +1,20 @@
+
+
+.asd1:hover {
+    text-decoration: underline;
+}
+
+.btnstyle1 {
+    border-radius: 100px;
+    font-size: 20px;
+    background-color: #1555BA;
+    padding: auto;
+}
+
+.btncom:hover {
+    background-color: #00A654;
+}
+
+.btnstyle1:hover {
+    background-color: #1555BA;
+}

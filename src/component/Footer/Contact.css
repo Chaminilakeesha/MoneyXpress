@@ -1,0 +1,90 @@
+#con1{
+    background-color: white;
+    height: 350px;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+    
+    
+}
+
+#con11{
+    margin: auto;
+    margin-top: auto;
+    width: fit-content;
+    height: fit-content;
+    
+    
+}
+
+@font-face {
+    font-family: 'BalooBhaina2-SemiBold';
+    src: local('BalooBhaina2'), url(./fonts/BalooBhaina2-SemiBold.ttf) format('truetype');
+  }
+  @font-face {
+    font-family: 'BalooBhaina2-Medium';
+    src: local('BalooBhaina2'), url(./fonts/BalooBhaina2-Medium.ttf) format('truetype');
+  }
+
+  #con1txt{
+      color: rgb(151, 151, 151);
+      text-align: center;
+      font-size: 20px;
+  }
+
+  #con2{
+      background-color: #f2f2f2;
+      display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 350px;
+  }
+
+  #con21{
+      width: fit-content;
+      height: fit-content;
+  }
+
+  #con2inl{
+            
+      width: 100px;
+      height: 100px;
+      float: left;
+  }
+
+  #con2inr{
+      float: left;
+      margin-left: 175px;
+  }
+
+  #con3{
+    background-color: white;
+    height: 500px;
+    
+    
+    
+}
+
+a.anc{
+    color: #1555BA;
+    font-weight: bold;
+}
+
+a.anc:hover{
+    color: purple;
+    text-decoration: underline;
+    }
+
+#img{
+    float: left;
+    background-color: purple;
+    margin-left: 5px;
+    margin: auto;
+    border-radius: 100%;
+    
+    
+}
+#con31{
+    width: fit-content;
+    height: fit-content;
+}
